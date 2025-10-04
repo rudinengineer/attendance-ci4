@@ -5,6 +5,8 @@
 Attendance APP is a system developed using the **PHP** programming language with the **Codeigniter 4** framework.
 This system is designed to simplify employee attendance management efficiently.
 
+[Video Documentation](https://www.youtube.com/watch?v=9DeG-Ki1JfE)
+
 ## Endpoint
 
 - Attendance APP : /
