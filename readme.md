@@ -40,7 +40,8 @@ Attendance System API can be found here:
 1. Build and run using Docker:
 
    ```bash
-   sudo docker compose up -d --build
+   docker compose build --no-cache
+   docker compose up -d
    ```
 
 1. The APP will be accessible at:
