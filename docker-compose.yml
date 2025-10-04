@@ -8,3 +8,9 @@ services:
       - .env
     ports:
       - "8080:80"
+    networks:
+      - attendance-net
+
+networks:
+  attendance-net:
+    external: true
