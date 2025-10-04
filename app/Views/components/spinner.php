@@ -1,0 +1,1 @@
+<div class="spinner-border spinner-border-sm" style="display: none;" role="status" id="spinner"></div>
