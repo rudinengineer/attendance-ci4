@@ -40,6 +40,7 @@ Attendance System API can be found here:
 1. Build and run using Docker:
 
    ```bash
+   docker network create attendance-net
    docker compose build --no-cache
    docker compose up -d
    ```
